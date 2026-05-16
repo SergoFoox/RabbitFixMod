@@ -2,21 +2,21 @@
 	"schemaVersion": 1,
 	"id": "rabbitfix",
 	"version": "${version}",
-	"name": "RabbitFix",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "RabbitFixMod",
+	"description": "RabbitFixMod is a mod that fixes several bugs with rabbit models!",
 	"authors": [
 		"SergoFox"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/rabbitfixmod",
+		"sources": "https://github.com/SergoFoox/RabbitFixMod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/rabbitfixmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "com.sergofox123.RabbitFixMod"
+          "com.sergofoox.RabbitFixMod"
 		]
 	},
 	"mixins": [
