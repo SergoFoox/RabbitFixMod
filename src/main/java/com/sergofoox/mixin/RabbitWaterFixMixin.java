@@ -1,4 +1,4 @@
-package com.sergofox123.mixin;
+package com.sergofoox.mixin;
 
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.animal.Animal;

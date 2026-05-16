@@ -1,4 +1,4 @@
-package com.sergofox123;
+package com.sergofoox;
 
 import net.fabricmc.api.ModInitializer;
 

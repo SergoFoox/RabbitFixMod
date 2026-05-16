@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "com.sergofox123.mixin",
+	"package": "com.sergofoox.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
 		"RabbitWaterFixMixin"

@@ -1,4 +1,4 @@
-package com.sergofox123.mixin;
+package com.sergofoox.mixin;
 
 import net.minecraft.client.model.animal.rabbit.RabbitModel;
 import net.minecraft.client.model.geom.ModelPart;
