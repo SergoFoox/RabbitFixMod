@@ -23,8 +23,8 @@
 		"rabbitfixmod.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.19.2",
-		"minecraft": "~26.1.2",
+		"fabricloader": "${fabric_loader_version}",
+		"minecraft": "${minecraft_version}",
 		"java": ">=25",
 		"fabric-api": "*"
 	}
