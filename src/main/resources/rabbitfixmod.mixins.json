@@ -3,6 +3,7 @@
 	"package": "com.sergofoox.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
+		"RabbitMonsterAvoidanceFixMixin",
 		"RabbitTemptGoalFixMixin",
 		"RabbitWaterFixMixin"
 	],
