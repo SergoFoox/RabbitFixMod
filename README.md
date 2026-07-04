@@ -1,4 +1,4 @@
-RabbitFixMod is a mod that fixes several bugs with rabbit models.
+RabbitFix is ​​a modification designed to fix a number of bugs related to the rabbit model and other things that Mojang hasn't been able to or hasn't fixed yet.
 
 ## Fixed bugs:
 - MC-306682
