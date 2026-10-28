@@ -7,4 +7,4 @@ RabbitFix is ​​a modification designed to fix a number of bugs related to th
 - MC-304535
 - MC-277500
 
-*Current supported MC version:* **26.2**
+*Current supported MC version:* **26.2 - 26.3**
